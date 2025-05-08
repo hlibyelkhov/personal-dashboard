@@ -41,3 +41,18 @@
 
 ---
 
+## 🌐 Деплой
+
+Приложение в работе:  
+👉 [personal-dashboard-gules.vercel.app](https://personal-dashboard-gules.vercel.app/)
+
+---
+
+## ⚙️ Установка и локальный запуск
+
+```bash
+git clone https://github.com/hlibyelkhov/personal-dashboard
+cd personal-dashboard
+npm install
+npm run dev
+
